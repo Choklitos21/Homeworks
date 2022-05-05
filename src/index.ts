@@ -53,4 +53,4 @@ const myPromise = new Promise((resolve) => {
 }, 1000)
 });
 
-myPromise.then(callback2); // log: Esto es un numero: 2
+myPromise.then(callback2); // log: Esto es un número: 2
